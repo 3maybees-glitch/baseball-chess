@@ -27,6 +27,12 @@ A hybrid strategy game: **standard chess rules** on a **baseball-themed diamond 
 - Baseball decisions correct vs attempted  
 - Accuracy % and turns skipped  
 
+## Play online
+
+**Live site:** https://3maybees-glitch.github.io/baseball-chess/
+
+Every push to `main` rebuilds and redeploys via GitHub Actions (Pages).
+
 ## Run locally
 
 ```bash
