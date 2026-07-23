@@ -29,9 +29,12 @@ A hybrid strategy game: **standard chess rules** on a **baseball-themed diamond 
 
 ## Play online
 
-**Live site:** https://3maybees-glitch.github.io/baseball-chess/
+**Primary (Vercel):** https://baseball-chess.vercel.app  
 
-Every push to `main` rebuilds and redeploys via GitHub Actions (Pages).
+**Mirror (GitHub Pages):** https://3maybees-glitch.github.io/baseball-chess/
+
+- **Vercel** rebuilds on every push to `main` (GitHub integration connected).
+- **GitHub Pages** also rebuilds via Actions on push to `main`.
 
 ## Run locally
 
